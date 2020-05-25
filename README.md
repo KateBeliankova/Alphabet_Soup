@@ -6,7 +6,7 @@ This project was aimed with the help of Deep Learning model to predict whether o
 
 ## Preprocessing of the dataset
 Within the dataset are a number of columns that capture metadata about each organization such as the following:
-EIN and NAME—Identification columns
+EIN and NAME—Identification columns \n
 APPLICATION_TYPE—Alphabet Soup application type
 AFFILIATION—Affiliated sector of industry
 CLASSIFICATION—Government organization classification
